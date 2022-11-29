@@ -9,3 +9,9 @@ a) Take the text entered by the user, convert it into speech and play it
 b) Allow the user to upload a voice file,convert it into text and show it in screen
 
 c) Take the text from user and convert it into the target language.
+
+
+
+
+
+### Documentation for the app is present(web application using flask) in word file
