@@ -1,0 +1,6 @@
+virtualenv
+flask
+python-dotenv
+requests
+pyttsx3
+SpeechRecognition
