@@ -35,7 +35,7 @@ B) Installing all the required libraries used for the application
          pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/105434629/205017528-8891bf9c-659f-40dc-8cb0-79c1729011bd.png)
 
-C) Create a resource in Azure for translator and fetch the setails like key, location and endpint and update the same details in index.py file as shown in pic below
+C) Create a resource in Azure for translator and fetch the details like key, location and endpint and update the same details in index.py file as shown in pic below
 
 ![image](https://user-images.githubusercontent.com/105434629/205020606-3a071821-ef16-43e5-8280-a50617058a53.png)
 
