@@ -68,12 +68,12 @@ H)Create an html file (STresults.html) u can find the complete code in STresults
 I) Create an html file (STT.html) u can find the complete code in STT.html file uploaded in the directory
 ![image](https://user-images.githubusercontent.com/105434629/205019531-7e6c9ed5-bcbf-48c3-a335-30641aee3192.png)
 
-### Running the application
+### To run the application
 A)   run the code ( python index.py) on your console and a address will apear on console copy it and paste on your browser
 
 ![image](https://user-images.githubusercontent.com/105434629/205025639-496d1895-6e54-47bd-9cd2-33a1b35ce0bf.png)
 
-B)As soon you hit ender after step one the following page will appear.
+B)As soon you hit enter after step one the following page will appear.
 
 ![image](https://user-images.githubusercontent.com/105434629/205026035-f280eef2-d569-4ca1-a582-c87ad0c3f896.png)
 
